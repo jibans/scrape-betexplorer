@@ -92,7 +92,7 @@ def mainPageExtract() :
     print("Extract page")
     for data in all_data :
         print(data)
-        #extractResultPage(data)
+        extractResultPage(data)
 
 
 if __name__=="__main__":
